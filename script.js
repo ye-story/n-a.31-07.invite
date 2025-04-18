@@ -13,7 +13,7 @@ if (+id && !isNaN(+id) && (+id <= 19) && (+id > 0)) {
  img1.src = baseImgPath + `${id}.webp`; 
 }
 else {
-  img1.src = './img/1.jpg';
+  img1.src = './img/1.webp';
 }
 
 const imgs = [...document.querySelectorAll('.img-wrapper img')];
