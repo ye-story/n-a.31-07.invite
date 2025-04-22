@@ -19,6 +19,7 @@ const names = [
   { id: '17', names: 'Светлана и Валерий' },
   { id: '18', names: 'Виктория и Евгений' },
   { id: '19', names: 'Алина' },
+  { id: '20', names: 'Полина и Сергей' },
 ];
 const baseURL = location.href.replace('admin/', ''); //location.origin
 const container = document.getElementById('container');
