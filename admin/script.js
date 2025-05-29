@@ -20,6 +20,7 @@ const names = [
   { id: '18', names: 'Виктория и Евгений' },
   { id: '19', names: 'Алина' },
   { id: '20', names: 'Полина и Сергей' },
+  { id: '21', names: 'Дорогой Чжоу Лян и Хэ Кэхуэй (亲爱的周亮和何科会)' },
 ];
 const baseURL = location.href.replace('admin/', ''); //location.origin
 const container = document.getElementById('container');
